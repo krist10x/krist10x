@@ -1,8 +1,7 @@
 #  About Me:
  Hi there, I'm Kristian <br><br>I am currently a **Computer and Automation Engineering student** at **Politecnico di Bari** . <br>
  <br>I’m currently focusing on my university studies and working on academic projects related to  Control Systems, Software Engineering
-<br>I’m looking to collaborate on **open-source projects** to gain hands-on experience and apply my theoretical knowledge.<br>
-<br>Featured Academic Projects<br><br>
+<br>I’m looking to collaborate on **open-source projects** to gain hands-on experience and apply my theoretical knowledge.<br><br>
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

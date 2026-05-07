@@ -2,7 +2,7 @@
  Hi there, I'm Kristian <br><br>I am currently a **Computer and Automation Engineering student** at **Politecnico di Bari** . <br>
  <br>I’m currently focusing on my university studies and working on academic projects related to  Control Systems, Software Engineering
 <br>I’m looking to collaborate on **open-source projects** to gain hands-on experience and apply my theoretical knowledge.<br>
-<br>Featured Academic Projects<br>[Password Strength Meter] - An university project, where based on two types of attacker the program calculates how secure your pssword is, i plan on expanding this project implementig a google extention and including library base on have i been powned..<br><br>
+<br>Featured Academic Projects<br>[<br>
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -16,6 +16,5 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=krist10x&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
